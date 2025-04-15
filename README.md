@@ -1,4 +1,4 @@
-# 🐦 Natural Language Processing_Twitter Sentiment Classification – Detecting Toxic Tweets
+# 🐦 Natural Language Processing_Twitter Sentiment Analysis
 
 This project performs sentiment classification on tweets to detect toxic content (racist/sexist). It includes data cleaning, EDA, hashtag analysis, and a machine learning model trained on Bag-of-Words features.
 
